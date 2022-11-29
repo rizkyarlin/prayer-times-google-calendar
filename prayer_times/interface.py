@@ -12,6 +12,8 @@ class PrayerTimeInterface(metaclass=abc.ABCMeta):
         )
 
     @abc.abstractmethod
-    def get_city_prayer_times_for_specific_month(self, city: str, country: str, ):
+    def get_city_prayer_times_for_specific_month(
+        self, city: str, country: str, month: int, year: int
+    ):
         """Load in the data set"""
         raise NotImplementedError
