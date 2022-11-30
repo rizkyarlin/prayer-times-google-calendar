@@ -3,16 +3,21 @@
 ## About
 
 I want to import prayer times to my work calendar to prevent Dunya meeting invitation get in the way of "meeting" with
-our Creator 😅
+our Creator 😅.
 
 ## TODO
 
-[ ] POC Prayer Times API
+[x] POC Prayer Times API
 
-[ ] POC Google Calendar API
+[x] POC Google Calendar API
 
 [ ] Implement Prayer Times API
 
 [ ] Implement Google Calendar API
 
 [ ] Dynamic Input for City, Country, Month, Year
+
+
+## Resources
+Google Calendar based on https://developers.google.com/calendar/api/quickstart/go
+Prayer Times API https://aladhan.com/prayer-times-api
