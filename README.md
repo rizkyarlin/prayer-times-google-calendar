@@ -7,7 +7,7 @@ our Creator 😅
 
 ## TODO
 
-[x] POC Prayer Times API
+[ ] POC Prayer Times API
 
 [ ] POC Google Calendar API
 
